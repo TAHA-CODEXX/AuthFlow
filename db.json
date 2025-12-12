@@ -4,13 +4,25 @@
       "id": "1",
       "name": "John Doe",
       "email": "john@example.com",
-      "password": "123456"
+      "password": "123456",
+      "securityQuestion": "What is your favorite color?",
+      "securityAnswer": "blue"
     },
     {
       "id": "2db3",
       "name": "taha",
       "email": "tasks@gmail.com",
-      "password": "12345678"
+      "password": "12345678",
+      "securityQuestion": "What is your pet's name?",
+      "securityAnswer": "fluffy"
+    },
+    {
+      "id": "2674",
+      "name": "taha",
+      "email": "tasksss@gmail.com",
+      "password": "taha@12",
+      "securityQuestion": "What is your favorite color?",
+      "securityAnswer": "red"
     }
   ]
 }

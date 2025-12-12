@@ -58,7 +58,38 @@
   background: #1e3a8a;
 }
 
+.question-label {
+  display: block;
+  text-align: left;
+  margin-top: 16px;
+  margin-bottom: 8px;
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.question-select {
+  width: 100%;
+  padding: 14px;
+  margin-bottom: 12px;
+  border: 2px solid #e2e8f0;
+  border-radius: 10px;
+  font-size: 1rem;
+  background: white;
+  color: #1e293b;
+  cursor: pointer;
+}
+
+.question-select:focus {
+  outline: none;
+  border-color: #1e40af;
+}
+
 .switch a {
+  color: #1e40af;
+  font-weight: 600;
+  text-decoration: none;
+}.switch a {
   color: #1e40af;
   font-weight: 600;
   text-decoration: none;
